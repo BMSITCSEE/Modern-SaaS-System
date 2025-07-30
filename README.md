@@ -1,36 +1,84 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ADmyBRAND AI Suite — Modern SaaS Landing Page
 
-## Getting Started
+🚀 **Live Demo**: [https://modern-saa-s-system.vercel.app](https://modern-saa-s-system.vercel.app)  
+🔗 **GitHub**: [https://github.com/adityasrivastav21/admybrand-ai-suite](https://github.com/adityasrivastav21/admybrand-ai-suite)
 
-First, run the development server:
+---
+
+## ✨ Overview
+
+A modern, visually stunning, and fully responsive SaaS landing page built for the **ADmyBRAND AI Suite** assignment. This project demonstrates production-grade UI design, animations, theme support, and a scalable component architecture using modern technologies.
+
+---
+
+## 🛠 Tech Stack
+
+- **Next.js 15 (App Router)**
+- **TypeScript**
+- **Tailwind CSS**
+- **Framer Motion**
+- **Shadcn/ui**
+- **Lucide Icons**
+
+---
+
+## ✅ Features
+
+- ✅ **Fully responsive layout** across devices
+- ✅ **Dark mode** toggle support
+- ✅ **Interactive animations** using Framer Motion
+- ✅ **Modern UI** with glassmorphism effects
+- ✅ **Form validation & submission**
+- ✅ **Functional buttons** with proper linking
+- ✅ **No console or runtime errors**
+- ✅ **Reusable component system**
+- ✅ **Clean and modular file structure**
+- ✅ **Production-ready deployment**
+
+---
+
+---
+
+## 🚀 Getting Started
+
+To run the project locally:
 
 ```bash
+git clone https://github.com/adityasrivastav21/admybrand-ai-suite
+cd admybrand-ai-suite
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🧱 Folder Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+admybrand-ai-suite/
+├── app/
+│ ├── layout.tsx
+│ └── page.tsx
+├── components/
+│ ├── shared/ # Navbar, Footer, Hero, Feature cards, etc.
+│ ├── ui/ # Buttons, Cards, Toggles, etc.
+│ └── animations/ # Animation configs
+├── public/
+│ └── assets/
+├── styles/
+│ └── globals.css
+├── tsconfig.json
+├── tailwind.config.ts
+└── README.md
 
-## Learn More
+Visit http://localhost:3000 to view the project in the browser.
 
-To learn more about Next.js, take a look at the following resources:
+🌐 Deployment
+Deployed on Vercel
+🔗 https://modern-saa-s-system.vercel.app
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+🙏 Acknowledgement
+Thanks to the ADmyBRAND team for the opportunity to build and showcase this project. I’ve ensured that all requirements were met with attention to modern UI/UX and clean engineering standards.
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+📬 Contact
+Feel free to connect for feedback or collaboration:
+📧 adityasrivastav21@gmail.com
+🔗 LinkedIn
