@@ -82,3 +82,5 @@ Thanks to the ADmyBRAND team for the opportunity to build and showcase this proj
 Feel free to connect for feedback or collaboration:
 📧 adityasrivastav21@gmail.com
 🔗 LinkedIn
+
+See AI_USAGE.md for full details on AI-assisted development workflow.
